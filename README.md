@@ -1,11 +1,12 @@
-git config
+# Header 1
 
-git init
+## Header 2
 
-git status
-
-git add .
-git add filename
+- git config
+- git init
+- git status
+- git add .
+  git add filename
 
 git commit -m "message"
 git commit -a -m "message" <!-- git add + git commit -->
@@ -34,6 +35,7 @@ git merge
 
 git remote
 git push
+git push -u origin branch-name
 git clone
 
 git pull <!-- git fetch + git merge -->
