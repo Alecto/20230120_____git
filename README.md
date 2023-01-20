@@ -29,3 +29,7 @@ git branch new-branch-name
 git checkout hash
 git checkout branch-name
 git checkout -b new-branch-name
+
+git remote
+git push
+git clone
