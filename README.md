@@ -34,4 +34,5 @@ git merge
 
 git remote
 git push
+git push -u origin branch-name
 git clone
