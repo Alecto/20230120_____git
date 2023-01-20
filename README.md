@@ -9,3 +9,7 @@ git add filename
 
 git commit -m "message"
 git commit -a -m "message" <!-- git add + git commit -->
+
+git log
+
+git rm --cached filename
