@@ -6,17 +6,17 @@
 - git init
 - git status
 - git add .
-  git add filename
+- git add filename
 
-git commit -m "message"
-git commit -a -m "message" <!-- git add + git commit -->
-git commit --amend -m "message"
+- git commit -m "message"
+- git commit -a -m "message" <!-- git add + git commit -->
+- git commit --amend -m "message"
 
-git log
-git log --pretty=format:"%h - %an, %ar - %s"
-git log -p -2
+- git log
+- git log --pretty=format:"%h - %an, %ar - %s"
+- git log -p -2
 
-git rm --cached filename
+- git rm --cached filename
 
 git reset --hard HEAD^
 git reset --hard HEAD~1
