@@ -9,6 +9,7 @@ git add filename
 
 git commit -m "message"
 git commit -a -m "message" <!-- git add + git commit -->
+git commit --amend -m "message"
 
 git log
 
