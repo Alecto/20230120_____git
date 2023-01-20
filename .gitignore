@@ -3,7 +3,9 @@
 .vscode/
 node_modules/
 temp/
+log/
 
 # ignored files
 .DS_Store
 temp*
+log*
