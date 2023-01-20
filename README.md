@@ -14,3 +14,6 @@ git commit --amend -m "message"
 git log
 
 git rm --cached filename
+
+git reset --hard HEAD^
+git reset --hard HEAD~1
