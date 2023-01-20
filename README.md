@@ -17,3 +17,5 @@ git rm --cached filename
 
 git reset --hard HEAD^
 git reset --hard HEAD~1
+
+???
