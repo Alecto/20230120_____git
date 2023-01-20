@@ -30,6 +30,8 @@ git checkout hash
 git checkout branch-name
 git checkout -b new-branch-name
 
+git merge
+
 git remote
 git push
 git clone
